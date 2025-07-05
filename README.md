@@ -14,3 +14,8 @@
 4. Điền thông tin phòng và 2 đội chơi
 ![Team 1](./images/team-1.png)
 ![Team 2](./images/team-2.png)
+
+# to-do-list
+[x] implement minimax algorithm
+[x] Evaluates game states using heuristics and optimizes
+[x] optimize with alpha beta pruning
