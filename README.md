@@ -16,6 +16,7 @@
 ![Team 2](./images/team-2.png)
 
 # to-do-list
-[x] implement minimax algorithm
-[x] Evaluates game states using heuristics and optimizes
-[x] optimize with alpha beta pruning
+
+[x] implement minimax algorithm  
+[x] Evaluates game states using heuristics and optimizes  
+[x] optimize with alpha beta pruning  
